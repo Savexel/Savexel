@@ -1,5 +1,5 @@
 # --About Me--
--Currently working on a special historical project, it's name is "Diletant"<br>-I’m looking to collaborate on open source python library projects<br>-I’m currently learning Python backend development: Data Science, Machine Learning
+<br>-I’m looking to collaborate on open source python library projects<br>-I’m currently learning Python backend development: Data Science, Machine Learning
 
 
 ## 🌐 Socials:
